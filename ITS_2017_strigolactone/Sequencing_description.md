@@ -1,8 +1,9 @@
+
 ## 2017_strigolactone project ITS sequencing
 
-####Include over-expression, RNAi and GR24 reverse
-
-
+----
+#### Include over-expression, RNAi and GR24-restore of D14, Max1 and Max genes
+----
 
 1. **Primers**
     Forward: Fungi (White et al., 1990)- CATCGATGAAGAACGCAG 
