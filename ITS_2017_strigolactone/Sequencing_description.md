@@ -23,7 +23,7 @@
     
              1) Fungi (White et al., 1990) - TCCTSCGCTTATTGATATGC
     
-             2) Archaearhizomycetes ([Cregger et al.,2018](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0413-8)) - TCCTCGCCTTATTGATATGC
+             2) Archaearhizomycetes [Cregger et al.,2018](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0413-8) - TCCTCGCCTTATTGATATGC
              
    *forward primers* - CAHCGATGAAGAACGYDG
    *Reverse primers* - TCCTSSSCTTATTGATATGC
