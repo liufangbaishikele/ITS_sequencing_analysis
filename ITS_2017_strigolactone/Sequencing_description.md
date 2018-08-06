@@ -7,7 +7,7 @@
 
 1. Primers - Foward
 
-     1) Fungi [White et al., 1990](White, Thomas J., et al. "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics." PCR protocols: a guide to methods and applications 18.1 (1990): 315-322.)- CATCGATGAAGAACGCAG 
+     1) Fungi [White et al., 1990] ``White, Thomas J., et al. "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics." PCR protocols: a guide to methods and applications 18.1 (1990): 315-322.``- CATCGATGAAGAACGCAG 
              
      2) Chytridiomycota [Tedersoo et al., 2014](http://science.sciencemag.org/content/346/6213/1256688/tab-pdf) - CAACGATGAAGAACGCAG
              
@@ -21,7 +21,7 @@
              
   2. Primers - Reverse
     
-     1) Fungi [White et al., 1990](White, Thomas J., et al. "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics." PCR protocols: a guide to methods and applications 18.1 (1990): 315-322.) - TCCTSCGCTTATTGATATGC
+     1) Fungi [White et al., 1990] ``White, Thomas J., et al. "Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics." PCR protocols: a guide to methods and applications 18.1 (1990): 315-322.`` - TCCTSCGCTTATTGATATGC
     
      2) Archaearhizomycetes [Cregger et al.,2018](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0413-8) - TCCTCGCCTTATTGATATGC
      
