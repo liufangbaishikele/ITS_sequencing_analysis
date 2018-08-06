@@ -7,26 +7,28 @@
 
 1. Primers - Foward
 
-             1) Fungi (White et al., 1990)- CATCGATGAAGAACGCAG 
+     1) Fungi (White et al., 1990)- CATCGATGAAGAACGCAG 
              
-             2) Chytridiomycota (Tedersoo et al., 2014) - CAACGATGAAGAACGCAG
+     2) Chytridiomycota (Tedersoo et al., 2014) - CAACGATGAAGAACGCAG
              
-             3) Sebacinales (Tedersoo et al., 2014) - CACCGATGAAGAACGCAG
+     3) Sebacinales (Tedersoo et al., 2014) - CACCGATGAAGAACGCAG
              
-             4) Glomeromycota (Tedersoo et al., 2014) - CATCGATGAAGAACGTAG
+     4) Glomeromycota (Tedersoo et al., 2014) - CATCGATGAAGAACGTAG
              
-             5) Sordariales (Tedersoo et al., 2014) - CATCGATGAAGAACGTGG
+     5) Sordariales (Tedersoo et al., 2014) - CATCGATGAAGAACGTGG
              
-             6) Stramenopila (Tedersoo et al., 2014) - CATCGATGAAGAACGCTG
+     6) Stramenopila (Tedersoo et al., 2014) - CATCGATGAAGAACGCTG
              
-    Primers - Reverse
+  2. Primers - Reverse
     
-             1) Fungi (White et al., 1990) - TCCTSCGCTTATTGATATGC
+     1) Fungi (White et al., 1990) - TCCTSCGCTTATTGATATGC
     
-             2) Archaearhizomycetes [Cregger et al.,2018](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0413-8) - TCCTCGCCTTATTGATATGC
+     2) Archaearhizomycetes [Cregger et al.,2018](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0413-8) - TCCTCGCCTTATTGATATGC
+     
+**In summary**:
              
-   *forward primers* - CAHCGATGAAGAACGYDG
-   *Reverse primers* - TCCTSSSCTTATTGATATGC
+   * forward primers - CAHCGATGAAGAACGYDG
+   * Reverse primers - TCCTSSSCTTATTGATATGC
    
  2. **2X250 pair-end sequencing**
  
