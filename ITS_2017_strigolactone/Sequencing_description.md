@@ -7,9 +7,9 @@
 
 1. **Primers**
 
-    Forward: Fungi (White et al., 1990)- CATCGATGAAGAACGCAG 
-    
-             Chytridiomycota (Tedersoo et al., 2014) - CAACGATGAAGAACGCAG
+    Forward:
+                Fungi (White et al., 1990)- CATCGATGAAGAACGCAG 
+                Chytridiomycota (Tedersoo et al., 2014) - CAACGATGAAGAACGCAG
              
              Sebacinales (Tedersoo et al., 2014) - CACCGATGAAGAACGCAG
              
