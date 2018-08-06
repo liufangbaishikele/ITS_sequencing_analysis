@@ -3,11 +3,10 @@
 
 ----
 #### Include over-expression, RNAi and GR24-restore of D14, Max1 and Max genes
-----
 
-1. **Primers**
 
-    Forward
+1. Primers - Foward
+
              1) Fungi (White et al., 1990)- CATCGATGAAGAACGCAG 
              
              2) Chytridiomycota (Tedersoo et al., 2014) - CAACGATGAAGAACGCAG
@@ -20,7 +19,8 @@
              
              6) Stramenopila (Tedersoo et al., 2014) - CATCGATGAAGAACGCTG
              
-    Reverse: 
+    Primers - Reverse
+    
              1) Fungi (White et al., 1990) - TCCTSCGCTTATTGATATGC
     
              2) Archaearhizomycetes (Cregger et al.,2018) - TCCTCGCCTTATTGATATGC
