@@ -20,7 +20,7 @@ Data set comes from 2017 strigolactone project, with RNAi, Over-expression and G
   
     iii) [Mirza Abid post about UNITE and ITS pipeline](https://www.researchgate.net/post/Mothur-formatted_UNITE_database)
     
-4-1) ``pairwise.seqs`` to generate distance matrix in column fomatted phylip format and ``cluster`` to create OTU table
+4) Pre-process of sequences before clustering
 
 ```
 make.contigs(inputdir=/staton/projects/soybean_rhizosphere/ITS_2017_strigolactone/mothur_two_samples/rawdata,outputdir=/staton/projects/soybean_rhizosphere/ITS_2017_strigolactone/mothur_two_samples/analysis,file=ITS.file,oligos=ITS.oligo,processors=12)
@@ -80,7 +80,7 @@ summary.tax(taxonomy=ITS.trim.contigs.good.unique.precluster.pick.UNITEv6_sh_97.
 ##  Here we need to bypass the alignment based clustering and alternatively 
 
 
-## 4-1) ``pairwise.seqs`` to cluster.seqs as the former command will generate a column fomatted distance matrix. Then, the ``cluster`` will do the clustering to generate OTU table.
+#### 4-1) ``pairwise.seqs`` to cluster.seqs as the former command will generate a column fomatted distance matrix. Then, the ``cluster`` will do the clustering to generate OTU table.
 
 ```
 pairwise.seqs(fasta=ITS.trim.contigs.good.unique.precluster.pick.pick.fasta,cutoff=0.1,align=needleman,output=lt,countends=T,calc=onegap,processors=12)
@@ -97,7 +97,7 @@ classify.otu(list=ITS.trim.contigs.good.unique.precluster.pick.pick.phylip.opti_
 
 ```
 
-## 4-2) Vsearch greedy clustering based OTU clustering, using ``cluster`` with ``dgc`` (distance based greedy clustering) method
+#### 4-2) Vsearch greedy clustering based OTU clustering, using ``cluster`` with ``dgc`` (distance based greedy clustering) method
 
 Run cluster.seq command with vsearch based clustering mthod, e.g., agc (abundance based greedy clusterin) and dgc (distance based greedy clustering, with the dgc as the default)
 
