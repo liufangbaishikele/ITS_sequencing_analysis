@@ -1,5 +1,8 @@
 ##                               ITS sequencing data analysis using mothur
 
+
+This test of pipeline were done with two samples.
+
 ---
 Data set comes from 2017 strigolactone project, with RNAi, Over-expression and GR24 restore treatments
 ---
