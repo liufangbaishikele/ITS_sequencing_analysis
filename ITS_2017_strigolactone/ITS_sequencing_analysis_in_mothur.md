@@ -80,7 +80,7 @@ summary.tax(taxonomy=ITS.trim.contigs.good.unique.precluster.pick.UNITEv6_sh_97.
 ##  Here we need to bypass the alignment based clustering and alternatively 
 
 
-## 4-1) pairwise.seqs to cluster.seqs as the former command will generate a column fomatted distance matrix. Then, the cluster.seq will do the clustering to generate OTU table.
+## 4-1) ``pairwise.seqs`` to cluster.seqs as the former command will generate a column fomatted distance matrix. Then, the ``cluster`` will do the clustering to generate OTU table.
 
 ```
 pairwise.seqs(fasta=ITS.trim.contigs.good.unique.precluster.pick.pick.fasta,cutoff=0.1,align=needleman,output=lt,countends=T,calc=onegap,processors=12)
